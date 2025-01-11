@@ -84,9 +84,7 @@ Provide a custom chart summarizing the overall satisfaction and operational effi
 ├── 📁 data
 │   └── call_centre_data.csv
 ├── 📁 reports
-│   └── 2021_performance_report.pdf
-├── 📁 visuals
-│   └── charts_and_graphs.png
+│   └── 2021_performance_report.pbix
 └── README.md
 ```
 
