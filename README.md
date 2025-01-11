@@ -1,4 +1,7 @@
 # Call Centre Performance Analysis and Insights
+![call_center_snapshot](https://github.com/user-attachments/assets/70ac834e-86d7-4cfc-831f-48d4dab64aa2)
+
+
 
 ## Problem Statement
 The objective of this project is to analyze a call centre dataset to extract meaningful insights and provide actionable information for improving operations and meeting company requirements. The dataset contains the following columns:
